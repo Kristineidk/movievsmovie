@@ -9,6 +9,10 @@
   border: 1px solid black;
 }
 
+body {
+    background-image: url("http://natewren.com/themes/wallpaper2/radpack/radpack_39.jpg");
+}
+
 #vs{
   width: 200px;
   height: 200px;
@@ -39,5 +43,6 @@
   font-family:futura;
   font-size:25px;
   font-weight:550;
-  margin: 0 auto;
+  margin:0 auto;
+  cursor:help;
 }
